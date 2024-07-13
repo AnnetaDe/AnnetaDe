@@ -19,7 +19,7 @@ Fullstack developer
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning Node.js  
   
@@ -27,7 +27,7 @@ Fullstack developer
 - CodeWars is my yoga♟️  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
