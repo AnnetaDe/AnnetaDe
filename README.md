@@ -20,15 +20,9 @@ Fullstack developer
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
-
 - 🌱 I’m currently learning Node.js  
-
 </td><td valign="top" width="100%">
-
-
-
 </td></tr></table>  
-
 <br/>  
 
 
