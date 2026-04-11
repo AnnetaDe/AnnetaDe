@@ -31,18 +31,11 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>  
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=annetade&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=annetade&hide_border=true&layout=compact&theme=radical&cache_seconds=1800" width="45%" />
+</p>
 
 <br/> 
-
-## 📊 GitHub Stats  
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=annetade&show_icons=true&count_private=true&theme=radical&v=1" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annetade&hide_border=true&layout=compact&theme=radical&v=1" width="100%" />
-    </td>
-  </tr>
-</table>
