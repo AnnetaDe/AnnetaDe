@@ -47,16 +47,18 @@ Fullstack developer
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnnetaDe&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnetaDe&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AnnetaDe&show_icons=true&count_private=true&theme=radical" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnetaDe&hide_border=true&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
@@ -70,6 +72,3 @@ Fullstack developer
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
