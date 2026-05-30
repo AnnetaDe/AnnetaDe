@@ -17,6 +17,4 @@ If you're here, we probably have something in common. Feel free to reach out on 
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneta-liss&show_icons=true&hide_border=true&cache_seconds=1800" />
-</p>
+![image](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/image.png)
