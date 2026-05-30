@@ -17,4 +17,5 @@ If you're here, we probably have something in common. Feel free to reach out on 
 
 ## 📊 GitHub Insights
 
-![image](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/image.png)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnnetaDe&hide_longest_streak=true)](https://git.io/streak-stats)
+
